@@ -10,6 +10,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0055-jump-game](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0283-move-zeroes](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
