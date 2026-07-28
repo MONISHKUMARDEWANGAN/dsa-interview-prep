@@ -28,4 +28,9 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0191-number-of-1-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
