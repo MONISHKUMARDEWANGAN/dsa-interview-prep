@@ -9,6 +9,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0001-two-sum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | ------- |
 | [0055-jump-game](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
