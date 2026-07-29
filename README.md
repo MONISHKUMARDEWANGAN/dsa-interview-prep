@@ -68,6 +68,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0509-fibonacci-number) |
@@ -81,4 +82,8 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | ------- |
 | [0070-climbing-stairs](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
