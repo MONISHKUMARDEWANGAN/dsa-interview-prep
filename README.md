@@ -12,6 +12,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -86,4 +87,5 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0069-sqrtx) |
+| [0704-binary-search](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
