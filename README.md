@@ -10,6 +10,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0018-4sum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0055-jump-game) |
+| [0074-search-a-2d-matrix](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0283-move-zeroes) |
@@ -89,5 +90,10 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | ------- |
 | [0035-search-insert-position](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0704-binary-search) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
