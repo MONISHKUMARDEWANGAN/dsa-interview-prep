@@ -21,6 +21,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | ------- |
 | [0001-two-sum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0013-roman-to-integer) |
 | [0383-ransom-note](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
@@ -55,6 +56,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0383-ransom-note](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0383-ransom-note) |
 ## String Matching
@@ -74,6 +76,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0231-power-of-two) |
