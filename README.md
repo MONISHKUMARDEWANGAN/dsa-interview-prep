@@ -14,6 +14,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0074-search-a-2d-matrix](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0977-squares-of-a-sorted-array) |
@@ -23,6 +24,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0001-two-sum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0383-ransom-note) |
 ## Dynamic Programming
 |  |
@@ -42,6 +44,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0136-single-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +76,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0018-4sum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0018-4sum) |
+| [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -82,6 +86,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0069-sqrtx](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -99,6 +104,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0035-search-insert-position](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0704-binary-search) |
 ## Matrix
 |  |
