@@ -34,6 +34,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0055-jump-game](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
@@ -47,6 +48,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0191-number-of-1-bits](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |
 | ------- |
