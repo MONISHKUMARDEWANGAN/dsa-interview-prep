@@ -9,6 +9,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0001-two-sum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0074-search-a-2d-matrix) |
@@ -62,6 +63,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0018-4sum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0018-4sum) |
+| [0027-remove-element](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0283-move-zeroes) |
