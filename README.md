@@ -44,6 +44,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0191-number-of-1-bits) |
@@ -70,6 +71,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0013-roman-to-integer](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0383-ransom-note) |
 ## String Matching
 |  |
@@ -92,6 +94,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0009-palindrome-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -133,4 +136,8 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0150-evaluate-reverse-polish-notation) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
