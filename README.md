@@ -42,6 +42,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | ------- |
 | [0055-jump-game](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0680-valid-palindrome-ii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0680-valid-palindrome-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0202-happy-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0392-is-subsequence) |
+| [0680-valid-palindrome-ii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -76,6 +78,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0067-add-binary](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0392-is-subsequence) |
+| [0680-valid-palindrome-ii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0680-valid-palindrome-ii) |
 ## String Matching
 |  |
 | ------- |
