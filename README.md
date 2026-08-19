@@ -35,6 +35,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0070-climbing-stairs](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
@@ -63,6 +64,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0202-happy-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -73,6 +75,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
