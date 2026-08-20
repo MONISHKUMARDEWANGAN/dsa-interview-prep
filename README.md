@@ -31,6 +31,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0202-happy-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
@@ -86,6 +87,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0067-add-binary](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0680-valid-palindrome-ii) |
 ## String Matching
@@ -160,5 +162,6 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
