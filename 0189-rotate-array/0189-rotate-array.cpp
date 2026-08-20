@@ -4,7 +4,18 @@ public:
         int n = nums.size();
         k = k%n;
         reverse(nums.begin(), nums.end());
-        reverse(nums.begin(), nums.begin()+k);
-        reverse(nums.begin()+k, nums.end());
+        
+        int l=0, r=k-1;
+        while(l<r) {
+            swap(nums[l], nums[r]);
+            l++;
+            r--;
+        }
+        l=k, r=n-1;
+        while(l<r) {
+            swap(nums[l], nums[r]);
+            l++;
+            r--;
+        }
     }
 };
