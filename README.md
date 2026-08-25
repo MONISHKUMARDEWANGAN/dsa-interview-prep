@@ -88,6 +88,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0067-add-binary](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0567-permutation-in-string) |
@@ -121,6 +122,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0202-happy-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -160,6 +162,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
