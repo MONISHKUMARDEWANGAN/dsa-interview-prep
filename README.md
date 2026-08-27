@@ -17,6 +17,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0136-single-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0704-binary-search) |
@@ -140,6 +141,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0035-search-insert-position](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0704-binary-search) |
 ## Matrix
@@ -167,7 +169,12 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0567-permutation-in-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
