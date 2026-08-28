@@ -22,6 +22,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0283-move-zeroes](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0303-range-sum-query-immutable) |
 | [0704-binary-search](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0704-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -37,6 +38,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0424-longest-repeating-character-replacement](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0904-fruit-into-baskets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -176,6 +178,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0424-longest-repeating-character-replacement](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
