@@ -18,6 +18,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0150-evaluate-reverse-polish-notation](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0303-range-sum-query-immutable) |
@@ -175,6 +176,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0567-permutation-in-string) |
@@ -190,4 +192,20 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0303-range-sum-query-immutable) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
