@@ -33,6 +33,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0003-longest-substring-without-repeating-characters](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0383-ransom-note) |
@@ -92,6 +93,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0014-longest-common-prefix](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0415-add-strings) |
@@ -175,6 +177,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0424-longest-repeating-character-replacement) |
