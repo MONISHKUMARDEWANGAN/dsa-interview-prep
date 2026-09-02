@@ -22,6 +22,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0268-missing-number](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0904-fruit-into-baskets) |
@@ -40,6 +41,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | [0383-ransom-note](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0904-fruit-into-baskets) |
 ## Dynamic Programming
@@ -191,6 +193,7 @@ A structured collection of C++ solutions for Data Structures &amp; Algorithms wi
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/MONISHKUMARDEWANGAN/dsa-interview-prep/tree/master/1004-max-consecutive-ones-iii) |
 ## Design
